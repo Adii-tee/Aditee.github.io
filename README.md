@@ -1,1 +1,1 @@
-# Aditee.github.io
+# This is a readme file of the project
